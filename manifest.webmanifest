@@ -1,0 +1,12 @@
+{
+  "name": "محمد عيشان | مشغل الوسائط الاحترافي",
+  "short_name": "محمد عيشان",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090b10",
+  "theme_color": "#0b0d13",
+  "description": "مشغل وسائط محلي يعمل دون إنترنت",
+  "icons": []
+}

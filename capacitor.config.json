@@ -1,0 +1,9 @@
+{
+  "appId": "com.mohamedaishan.player",
+  "appName": "محمد عيشان",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
